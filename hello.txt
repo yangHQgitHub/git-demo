@@ -3,5 +3,4 @@ hello git
 hello git
 hello git
 hello git master修改
-hello git  2222
-newBranch1修改
+hello git  newBranch1修改
